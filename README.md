@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:  ANU RADHA N
+### Register Number:  212223230018
+
+
+![image](https://github.com/user-attachments/assets/363b1565-f8de-4964-a23b-4e9618873146)
+
+
+![Screenshot 2025-04-16 114508](https://github.com/user-attachments/assets/a3834cd2-ec6b-4c7a-85ec-db3accd7dd22)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
